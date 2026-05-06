@@ -1,0 +1,4 @@
+# [SYL_DEPENDENCIES]
+requests>=2.25.1
+urllib3>=1.26.5
+# Модули для анализа безопасности API
